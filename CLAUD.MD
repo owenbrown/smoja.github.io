@@ -31,4 +31,6 @@ Tasks for today:
 - [ ] Point smoja.com at the new empty blog
 - [ ] Create five stubs for articles
 - [ ] get out raw ideas.
-- 
+
+# Commit messages
+Never ever put 🤖 Generated with [Claude Code](https://claude.ai/code) in commit message, or anything else spammy.
